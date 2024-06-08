@@ -48,7 +48,6 @@ In this part, we build and evaluate machine learning models to predict credit ca
 ## Repository Structure
 - `data`: Contains the dataset used for analysis.
 - `notebooks`: Jupyter notebooks for EDA, feature selection, model building, and evaluation.
-- `images`: Contains visualizations generated during the analysis.
 - `README.md`: Provides an overview of the project and its components.
 
 ## Dependencies
